@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: darkslategray;
+	font-size: 90px;
+	text-decoration: underline;
+}
+
+h2{
+	color: grey;
+	font-size: 45px;
+	text-decoration: underline;
+}
+
+.large{
+	font-size: 100px;
+}
+
+span{
+	font-style: italic;
+}
+
+h1 span{
+	text-decoration: line-through;
+}
+
+.p{
+	color: lightgray;
+	font-size: 30px;
+}
+
+span{
+	color: red;
+	font-size: 30px;
+	text-decoration: italic;
+}
